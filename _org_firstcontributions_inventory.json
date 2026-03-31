@@ -1,0 +1,92 @@
+[
+  {
+    "full_name": "firstcontributions/assets",
+    "name": "assets",
+    "private": false,
+    "language": null,
+    "description": "Host image assets we need separately ",
+    "default_branch": "master",
+    "html_url": "https://github.com/firstcontributions/assets",
+    "updated_at": "2025-10-05T12:08:07Z"
+  },
+  {
+    "full_name": "firstcontributions/authorizer",
+    "name": "authorizer",
+    "private": false,
+    "language": null,
+    "description": null,
+    "default_branch": "main",
+    "html_url": "https://github.com/firstcontributions/authorizer",
+    "updated_at": "2026-01-07T22:52:00Z"
+  },
+  {
+    "full_name": "firstcontributions/backend",
+    "name": "backend",
+    "private": false,
+    "language": "Go",
+    "description": null,
+    "default_branch": "main",
+    "html_url": "https://github.com/firstcontributions/backend",
+    "updated_at": "2026-01-21T22:03:10Z"
+  },
+  {
+    "full_name": "firstcontributions/first-contributions",
+    "name": "first-contributions",
+    "private": false,
+    "language": null,
+    "description": "🚀✨ Help beginners to contribute to open source projects",
+    "default_branch": "main",
+    "html_url": "https://github.com/firstcontributions/first-contributions",
+    "updated_at": "2026-03-31T15:19:52Z"
+  },
+  {
+    "full_name": "firstcontributions/firstcontributions.github.io",
+    "name": "firstcontributions.github.io",
+    "private": false,
+    "language": "JavaScript",
+    "description": "Web app for First Contributions",
+    "default_branch": "main",
+    "html_url": "https://github.com/firstcontributions/firstcontributions.github.io",
+    "updated_at": "2026-03-26T17:49:30Z"
+  },
+  {
+    "full_name": "firstcontributions/frontend",
+    "name": "frontend",
+    "private": false,
+    "language": "TypeScript",
+    "description": null,
+    "default_branch": "main",
+    "html_url": "https://github.com/firstcontributions/frontend",
+    "updated_at": "2025-09-26T15:41:54Z"
+  },
+  {
+    "full_name": "firstcontributions/graphql-explorer",
+    "name": "graphql-explorer",
+    "private": false,
+    "language": "JavaScript",
+    "description": "A graphql explorer on top of graphiql",
+    "default_branch": "master",
+    "html_url": "https://github.com/firstcontributions/graphql-explorer",
+    "updated_at": "2026-01-07T22:51:47Z"
+  },
+  {
+    "full_name": "firstcontributions/matro",
+    "name": "matro",
+    "private": false,
+    "language": "Go",
+    "description": "Matro is a code generator",
+    "default_branch": "main",
+    "html_url": "https://github.com/firstcontributions/matro",
+    "updated_at": "2025-04-11T02:44:38Z"
+  },
+  {
+    "full_name": "firstcontributions/merge-bot",
+    "name": "merge-bot",
+    "private": false,
+    "language": "JavaScript",
+    "description": "bot that merges pull requests automatically",
+    "default_branch": "master",
+    "html_url": "https://github.com/firstcontributions/merge-bot",
+    "updated_at": "2025-04-11T02:43:09Z"
+  }
+]
