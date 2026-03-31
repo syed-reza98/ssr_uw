@@ -60,10 +60,108 @@ These are the sections that appear top-to-bottom on your profile page when you�
   - Live character counter is shown (example observed: “4102 characters left”)
 - Actions: Cancel, Save
 
-## C) Remaining sections to capture (next)
+### 4) Photo — “Edit photo”
+- Dialog title: “Edit photo”
+- Controls shown in the dialog:
+  - “Close the dialog” (close button)
+  - Image area with “Move” label (drag to reposition)
+  - Slider: **Uploaded image** (crop/position control)
+  - Zoom controls:
+    - Button: “Zoom” (icon)
+    - Slider: **Zoom** (example value observed: “0”)
+    - Readouts (example observed): “23% zoom”, “rotated 0 degrees counterclockwise”
+  - Button: “Rotate 90 degrees counterclockwise”
+  - Button: “Delete current Image”
+  - Help text about photo rules + link: “Learn more about sample profiles and best practices”
+- Actions: **Change image**, **Save photo**
+
+## C) Settings → Profile Settings page (field-level)
+
+Settings page URL:
+- https://www.upwork.com/freelancers/settings/profile#profilesAnchor
+
+### 1) My profile
+
+#### a) “View my profile as others see it”
+- Control: link (opens public-view mode)
+
+#### b) Visibility
+- Control: **Visibility** (combobox)
+- Options:
+  - Public (selected)
+  - Only Upwork users
+  - Private
+
+#### c) Project preference
+- Control: **Project preference** (combobox)
+- Control: **Info about project preference** (info button)
+- Options:
+  - Both short-term and long-term projects (selected)
+  - Long-term projects (3+ months)
+  - Short-term projects (less than 3 months)
+
+#### d) Earnings privacy
+- Control: **Info about earnings privacy** (info button)
+- Notes shown in UI:
+  - “Want to keep your earnings private?”
+  - “Upgrade to a Freelancer Plus membership” (link) — to enable this setting
+
+### 2) Experience level
+- Control type: radio group
+- Options:
+  - Entry level — “I am relatively new to this field”
+  - Intermediate — “I have substantial experience in this field”
+  - Expert — “I have comprehensive and deep expertise in this field” (checked)
+
+### 3) Categories
+- Control: **Edit category** (button)
+- Categories shown on the page:
+  - **Web, Mobile & Software Dev**
+    - QA Testing
+    - Web & Mobile Design
+    - Ecommerce Development
+    - Web Development
+    - Scripts & Utilities
+    - AI Apps & Integration
+  - **IT & Networking**
+    - DevOps & Solution Architecture
+  - **Data Science & Analytics**
+    - Data Extraction/ETL
+    - AI & Machine Learning
+    - Data Analysis & Testing
+
+### 4) Specialized profiles
+- Notes shown in UI:
+  - “Reorder specialized profiles” (control not expanded yet)
+  - “1 published”
+- Item shown:
+  - “Full Stack Development - Published”
+  - Options menu: **Full Stack Development options**
+    - Menu actions: View, Edit, Switch Specialty
+
+### 5) Linked accounts
+- Items shown:
+  - GitHub
+  - StackOverflow
+
+### 6) AI preference
+- Text: “Choose how your Upwork data is used for AI training and improvement.”
+- Link: “Learn more” (Upwork Help Center)
+- Status text shown: “Your data is helping train our AI”
+- Control: **Change preference** (button)
+
+#### AI preference modal — “Update your AI preferences”
+- Close control: “Close the dialog”
+- Primary text:
+  - “Allow your Upwork data to be used for AI training and improvement.”
+  - “Third parties won’t be able to use this data to train their own models. You can change this any time.”
+  - “We may still use your data to provide AI features, including personalizing responses based on your activity and past interactions.”
+- Link in modal: “Learn more”
+- Actions: **Don’t allow**, **Allow**
+
+## D) Remaining sections to capture (next)
 I still need to open each editor and list **every input field** inside it, including:
 - Edit photo (upload/crop)
-- Edit specialized profile (all specialized-profile settings)
 - Portfolio editor (add/edit items, URLs, images, skills)
 - Skills & expertise editor
 - Availability badge + Boost profile toggles
@@ -75,3 +173,8 @@ I still need to open each editor and list **every input field** inside it, inclu
 - Certifications (add)
 - Employment history (add/edit)
 - Other experiences (add/edit)
+
+Also still pending from **Profile Settings**:
+- Edit category (open the editor and inventory its fields)
+- Specialized profile actions (View / Edit / Switch Specialty) — open each and inventory the fields
+- Linked accounts (click GitHub/StackOverflow to see connect/unlink flows + any inputs)
