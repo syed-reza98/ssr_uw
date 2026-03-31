@@ -39,7 +39,7 @@ Key findings used:
 - `Full Stack Web Developer | PHP | Laravel`
 
 **New:**
-- `AI + Next.js Full-Stack Engineer | APIs & FinTech Systems`
+- `AI Automation & Next.js Engineer | APIs, Laravel, FinTech Data`
 
 Rationale:
 - Merges option 1 + 2 positioning (AI + Next.js full-stack)
@@ -51,6 +51,7 @@ New description now leads with:
 - Stack focus: Next.js 16, React, TypeScript, PostgreSQL, Python (Flask), Laravel (PHP)
 - Services: automation, full-stack build, API integrations, data/ETL workflows, CI/CD
 - FinTech proof: reconciliation/data extraction + banking modernization context
+- Emphasis on architecture-to-deployment ownership with clear client-facing outcomes
 
 ### C) Skills/expertise cleanup
 - Removed irrelevant tag: **Business with 10-99 Employees**
@@ -58,15 +59,25 @@ New description now leads with:
 Validation check after save:
 - `hasBizTag: false`
 
+### D) Specialized portfolio curation
+Selected portfolio items for `Full Stack Development` were updated to emphasize niche fit:
+- `E-commerce Platform`
+- `Walkinroom: A Hotel Booking Site`
+- `Cheque Book Requisition Management System`
+
+Unselected from this specialized view:
+- `SEIP Training Management System`
+- `GYM Management System (GMS)`
+
 ---
 
 ## Post-Edit Verification Snapshots (observed state)
 
 - Specialized tab selected: `Full Stack Development`
 - Updated specialized title visible:
-  - `AI + Next.js Full-Stack Engineer | APIs & FinTech Systems`
+  - `AI Automation & Next.js Engineer | APIs, Laravel, FinTech Data`
 - Updated specialized overview visible and starts with:
-  - `I build AI-enabled full-stack products...`
+  - `I help startups and fintech teams ship AI-enabled web products...`
 
 ---
 
