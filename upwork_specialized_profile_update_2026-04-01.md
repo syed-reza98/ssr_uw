@@ -87,6 +87,34 @@ Unselected from this specialized view:
 
 ---
 
+## Continuation Session Updates (2026-04-01)
+
+### E) Merged-profile implementation applied on `All work`
+Because account UI exposed only one active specialized profile path (`Full Stack Development`) during this session, the merged profile strategy was applied to `All work` while keeping specialized profile content intact.
+
+All-work title updated to:
+- `AI Automation & SaaS Engineer | Next.js, Laravel, Python APIs`
+
+All-work overview was rewritten to merge profile 1 + 2 positioning with verified evidence blocks:
+- AI automation + SaaS/full-stack execution
+- Next.js 16 / React 19 / TypeScript + Laravel/Python APIs
+- FinTech reconciliation/modernization proof
+- Live deployed project evidence and ML model metrics reference
+
+### F) Project Catalog edit flow executed
+From `Project List | Upwork`, the approved project
+- `You will get an eye-catching, user-friendly web application`
+was opened in edit mode and saved through the full step flow:
+- Overview → Pricing → Gallery → Requirements → Description → Review
+
+Gallery step used deployed-thumbnail asset selection from local repo path:
+- `assets/project_thumbnails/stormcom-live-home-2026-04-01.png`
+
+Final action completed:
+- `Save Project` on Review step (returned to `Project List | Upwork`).
+
+---
+
 ## Suggested Next Improvements (optional)
 1. Reorder specialized portfolio to show strongest AI + Next.js + FinTech items first.
 2. Refine specialized skills lists to prioritize:

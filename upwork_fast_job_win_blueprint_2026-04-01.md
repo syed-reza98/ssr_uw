@@ -100,6 +100,15 @@ Generated files:
 - `github-tms.png`
 - `github-profile-syed-reza98.png`
 
+Continuation session deployed-only additions:
+- `arvinwedsincia-live-home-2026-04-01.png`
+- `codestormhub-live-home-2026-04-01.png`
+- `stormcom-live-home-2026-04-01.png`
+- `walkinroom-live-home-2026-04-01.png`
+- `shesafe-live-home-2026-04-01.png`
+- `cleancrew-live-home-2026-04-01.png`
+- `roboflow-bikehelmet-live-2026-04-01.png`
+
 Use these when creating/updating Upwork portfolio entries or proposal attachments.
 
 ---
@@ -191,6 +200,9 @@ Day 6–7
 Upwork has announced Specialized Profiles will be removed starting May 28, 2026.
 Action recommended:
 - Keep this specialized copy mirrored in main profile title/overview/skills so nothing important is lost.
+
+Continuation status:
+- Mirror strategy executed: `All work` title and overview were updated with merged AI + SaaS + API positioning while keeping the specialized profile in place.
 
 ---
 
