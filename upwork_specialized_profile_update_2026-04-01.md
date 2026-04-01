@@ -113,6 +113,15 @@ Gallery step used deployed-thumbnail asset selection from local repo path:
 Final action completed:
 - `Save Project` on Review step (returned to `Project List | Upwork`).
 
+### G) Portfolio thumbnail update completed on published item
+On `All work` → `Portfolio` → `Published`, the first item (`E-commerce Platform`) was opened via:
+- `More options` → `Change thumbnail`
+
+Thumbnail asset selected from live capture set:
+- `assets/project_thumbnails/stormcom-live-home-2026-04-01.png`
+
+The thumbnail editor completed upload and closed, applying the updated image selection.
+
 ---
 
 ## Suggested Next Improvements (optional)
