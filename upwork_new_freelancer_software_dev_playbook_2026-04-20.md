@@ -9,6 +9,7 @@ It is written to be **evidence-based** and **policy-safe**. It uses links to sou
 ## Update Log
 
 - 2026-04-20: Initial version based on official Upwork guidance on profiles, proposals, Connects, communication rules, safety, payments/protection, disputes, and ads/badges.
+- 2026-04-20: Expanded Connects strategy with an evidence-based “don’t waste Connects” bidding framework (official rules + practical rubric + budgeting).
 
 ---
 
@@ -154,17 +155,104 @@ Source:
 
 ## 4) Connects and “paid visibility” (use carefully)
 
-### 4.1 Boosted proposals (optional)
+### 4.1 Connects: rules that directly impact your bidding strategy (official)
 
-- Boosting can place your proposal into one of the first boosted slots clients see.
-- It costs extra Connects; treat it as a deliberate bet on high-fit jobs.
+- Upwork states: **“Connects cost $0.15 (USD) each”** (sold in bundles). Treat each proposal as a deliberate spend.
+- Connects are **not typically refunded** in common outcomes (e.g., client chooses someone else, your proposal is declined, job expires). Upwork documents refunds only for specific job/post outcomes (and **withdrawing a proposal doesn’t refund** Connects).
+- Expiration: Upwork states **all Connects expire one year from when they’re issued**, and it does **not** send email reminders. Expired Connects can’t be credited back.
+- Rollover: Upwork states Connects roll over unless they expire, and there’s **no limit** on how many you can hold.
+- The Connects required for a job **can change while a job is live** — re-check the Connects cost right before you click submit.
+
+Sources:
+
+- https://support.upwork.com/hc/en-us/articles/211062898-Understanding-and-using-Connects
+- https://support.upwork.com/hc/en-us/articles/39293844553235-Do-Connects-ever-expire
+- https://support.upwork.com/hc/en-us/articles/39293812809235-How-many-Connects-can-I-rollover-each-month
+- https://support.upwork.com/hc/en-us/articles/41289488426643-I-noticed-the-number-of-Connects-required-to-submit-a-proposal-for-a-job-changed-from-when-I-first-saw-the-post-Why
+- https://support.upwork.com/hc/en-us/articles/211060288-How-to-withdraw-and-resubmit-a-proposal-on-Upwork
+
+### 4.2 Upwork’s “don’t waste Connects” checklist (official)
+
+Upwork’s Connects guidance recommends reviewing these before spending Connects:
+
+- Confirm the job is a good match and you have time to submit a **quality** proposal.
+- Check whether the client has a history of hiring and whether it looks like they intend to hire.
+- Check job activity (e.g., how much competition there is and whether the client is interviewing), because high competition can be a less efficient use of Connects.
+
+Source:
+
+- https://support.upwork.com/hc/en-us/articles/211062898-Understanding-and-using-Connects
+
+### 4.3 Suggested Apply / Skip / Boost framework (practical)
+
+This is a practical decision rubric derived from the official rules above (not an official Upwork scoring system).
+
+Apply when:
+
+- You can point to 1–2 directly relevant samples and keep your proposal specific.
+- The job post is scoped clearly enough that you can propose a realistic approach (Section 8 red-flag scan is clean).
+- The Connects cost fits your current budget (Section 4.5).
+
+Skip when:
+
+- You can’t demonstrate relevant proof, or you’d be guessing the scope.
+- The post is vague or shows red flags (off-platform payment/contact, unpaid test/free work, “too good to be true” terms).
+- The Connects requirement is high relative to the job value or your remaining budget.
+
+Consider boosting only when:
+
+- It’s a high-fit, high-value job and you’re comfortable paying extra Connects if the boost ends up being charged.
+- You understand the boost charging rules and that boosting can be placebo-tested on a small percentage of jobs.
+- You’re boosting a strong proposal (boosting won’t fix weak fit or a generic cover letter).
+
+Sources:
+
+- https://support.upwork.com/hc/en-us/articles/4406395531795-How-to-boost-your-proposal
+- https://support.upwork.com/hc/en-us/articles/11983621573395-Boosted-Proposal-placebo-auctions
+
+### 4.4 Avoid double-spending: edit vs withdraw/resubmit (official)
+
+- Upwork states you can edit most parts of your proposal **within six hours or until the client views it (whichever comes first)**. Use this window to fix mistakes without withdrawing.
+- Withdrawing a proposal **does not refund** Connects.
+- Upwork states you can only resubmit after withdrawing if the original proposal **wasn’t boosted** and **didn’t include a Uma™ video interview**.
+
+Sources:
+
+- https://support.upwork.com/hc/en-us/articles/211060388-How-to-edit-your-proposal
+- https://support.upwork.com/hc/en-us/articles/211060288-How-to-withdraw-and-resubmit-a-proposal-on-Upwork
+
+### 4.5 Budgeting: turn Connects into a weekly system (practical)
+
+- Convert to dollars for clarity: $\text{estimated cost} \approx \text{Connects} \times 0.15$.
+- Set a monthly Connects budget (plan + purchases), then define a weekly cap (monthly ÷ 4).
+- Split your weekly budget into:
+  - High-fit proposals (primary)
+  - Selective boosts (optional)
+  - Buffer for high-signal opportunities
+- Track weekly efficiency:
+  - Connects spent
+  - Proposals sent
+  - Interviews
+  - Hires
+  - Connects per interview / per hire
+
+Sources:
+
+- https://support.upwork.com/hc/en-us/articles/211062898-Understanding-and-using-Connects
+- https://support.upwork.com/hc/en-us/articles/211062888-What-is-Freelancer-Plus
+
+### 4.6 Boosted proposals (optional) — mechanics and limits (official)
+
+- Boosting can place your proposal into one of the **top four** boosted slots.
+- The boost auction closes **after seven days or upon the first hire (whichever comes first)**.
+- Upwork documents that boost Connects are charged only in specific cases (otherwise boost Connects are refunded), but the base proposal Connects are charged when you submit.
 
 Sources:
 
 - https://support.upwork.com/hc/en-us/articles/4406541109011-Boosted-Proposals
-- https://support.upwork.com/hc/en-us/articles/4406395531795-Boost-your-proposal
+- https://support.upwork.com/hc/en-us/articles/4406395531795-How-to-boost-your-proposal
 
-### 4.2 Proposal insights (if available)
+### 4.7 Proposal insights (if available)
 
 - Proposal insights can help you see competitor bid context and client activity, which can guide your pricing and whether the job is worth spending Connects on.
 
@@ -172,7 +260,7 @@ Source:
 
 - https://support.upwork.com/hc/en-us/articles/34019683309587-Proposal-insights
 
-### 4.3 Boosted profile vs. Availability Badge
+### 4.8 Boosted profile vs. Availability Badge
 
 - **Boosted Profile**: pay-per-click style promotion in search; you set targeting and maximum Connects per click.
 - **Availability Badge**: ongoing “available now” signal; weekly cost varies and you cap your weekly spend.
@@ -181,6 +269,17 @@ Sources:
 
 - https://support.upwork.com/hc/en-us/articles/20850487528723-How-to-boost-your-profile
 - https://support.upwork.com/hc/en-us/articles/4403673074707-Availability-Badge
+
+### 4.9 Invitations + Uma™ recorded interview (Connects-related caveats)
+
+- Upwork states responding to an invitation (accepting or declining) does not cost Connects.
+- For some jobs, Upwork may require a Uma™ recorded video interview; Upwork notes you won’t be charged Connects if you take the interview but choose not to submit a proposal afterward.
+
+Sources:
+
+- https://support.upwork.com/hc/en-us/articles/211063018-How-to-respond-to-an-invitation-to-apply-on-Upwork
+- https://support.upwork.com/hc/en-us/articles/41104211856915-How-to-take-a-recorded-video-interview-on-Upwork
+- https://support.upwork.com/hc/en-us/articles/211062998-How-to-submit-a-proposal-on-Upwork
 
 ---
 

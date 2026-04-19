@@ -2,6 +2,11 @@
 
 Goal: maximize interview rate and contract wins quickly using your verified experience.
 
+## Update Log
+
+- 2026-04-01: Initial version.
+- 2026-04-20: Added a Connects-budget overlay so proposal volume doesn’t create unnecessary Connects spend.
+
 ---
 
 ## 1) Live Specialized Profile Rebuilt (from scratch)
@@ -182,7 +187,8 @@ Day 1
 - Ensure first 250 chars of overview are strong (already improved)
 
 Day 2–3
-- Send 10–15 tightly matched proposals/day (quality > volume)
+- Decide your weekly Connects budget first, then send only as many **high-fit** proposals/day as your budget allows (avoid “spray-and-pray”).
+  - Practical rule: $\text{daily proposals} \approx \left\lfloor\frac{\text{daily Connects budget}}{\text{avg Connects/job}}\right\rfloor$.
 - Prioritize API/Next.js/Laravel/Python jobs with clear scope
 
 Day 4–5

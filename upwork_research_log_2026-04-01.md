@@ -109,6 +109,29 @@ Latest official Upwork guidance relevant to profile optimization, specialized-pr
 - https://support.upwork.com/hc/en-us/articles/4406395531795-Boost-your-proposal
   - Boost mechanics: bid Connects for placement; treat as an optional, selective strategy.
 
+**Connects (avoid wasting spend)**
+
+- https://support.upwork.com/hc/en-us/articles/211062898-Understanding-and-using-Connects
+  - Canonical overview: Connects pricing, refund rules, and Upwork’s own “tips for managing Connects” checklist before you spend.
+- https://support.upwork.com/hc/en-us/articles/39293844553235-Do-Connects-ever-expire
+  - Connects expire one year from issuance; Upwork does not send upcoming-expiry reminder emails; expired Connects can’t be credited back.
+- https://support.upwork.com/hc/en-us/articles/39293812809235-How-many-Connects-can-I-rollover-each-month
+  - All Connects roll over unless they expire; there’s no holding limit.
+- https://support.upwork.com/hc/en-us/articles/41289488426643-I-noticed-the-number-of-Connects-required-to-submit-a-proposal-for-a-job-changed-from-when-I-first-saw-the-post-Why
+  - Required Connects can change while a job post is live; re-check right before submitting.
+- https://support.upwork.com/hc/en-us/articles/211060388-How-to-edit-your-proposal
+  - Editing window and what can be changed; relevant to avoiding withdraw/resubmit double-spend.
+- https://support.upwork.com/hc/en-us/articles/211060288-How-to-withdraw-and-resubmit-a-proposal-on-Upwork
+  - Withdrawing does not refund Connects; resubmission restrictions apply (including boosted proposals and Uma™ interview cases).
+- https://support.upwork.com/hc/en-us/articles/11983621573395-Boosted-Proposal-placebo-auctions
+  - Upwork runs placebo tests on a small percentage of job posts; boost Connects are not taken in those cases.
+- https://support.upwork.com/hc/en-us/articles/211063018-How-to-respond-to-an-invitation-to-apply-on-Upwork
+  - Accepting/declining an invitation doesn’t cost Connects; invited jobs may still require Uma™ interview.
+- https://support.upwork.com/hc/en-us/articles/41104211856915-How-to-take-a-recorded-video-interview-on-Upwork
+  - Uma™ recorded interview constraints + Connects caveat when you don’t submit afterward.
+- https://support.upwork.com/hc/en-us/articles/211062888-What-is-Freelancer-Plus
+  - Monthly Connects included in the plan (and some proposal/client insight features that can influence spend decisions).
+
 **Communication rules + safety (high-risk policy topics)**
 
 - https://support.upwork.com/hc/en-us/articles/360051749534-How-to-keep-your-contact-information-safe-on-Upwork
@@ -188,3 +211,4 @@ Latest official Upwork guidance relevant to profile optimization, specialized-pr
 ## Update Log
 
 - 2026-04-20: Added official guidance for new freelancer hiring strategy (software dev), covering proposals, safety/circumvention, fees, payment protection, disputes, JSS/badges, and Project Catalog.
+- 2026-04-20: Added official Connects guidance (spend/refund/expiry/boosting + edit/withdraw rules) focused on minimizing wasted Connects.
