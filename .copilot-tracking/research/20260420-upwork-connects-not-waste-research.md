@@ -112,114 +112,114 @@ N/A
 - url: https://support.upwork.com/hc/en-us/articles/211062898-Understanding-and-using-Connects
   title: Understanding and using Connects
   key points:
-    - Pricing + buying: "Connects cost $0.15 (USD) each" (sold in bundles) and are used for proposals and ad products (e.g., boosted proposals).
-    - “Before spending” checklist: Upwork explicitly recommends vetting job fit + your ability to write a quality proposal, then checking client hire intent/history and job activity (many proposals/interviews can lower odds).
-    - Refund + tracking rules: Connects can be returned for specific platform/job-post reasons (and are returned for reuse, not cash); Upwork also explains where to check balance/history (transactions for "past 7, 30, and 90 days").
+  - Pricing + buying: "Connects cost $0.15 (USD) each" (sold in bundles) and are used for proposals and ad products (e.g., boosted proposals).
+  - “Before spending” checklist: Upwork explicitly recommends vetting job fit + your ability to write a quality proposal, then checking client hire intent/history and job activity (many proposals/interviews can lower odds).
+  - Refund + tracking rules: Connects can be returned for specific platform/job-post reasons (and are returned for reuse, not cash); Upwork also explains where to check balance/history (transactions for "past 7, 30, and 90 days").
 
 - url: https://support.upwork.com/hc/en-us/articles/39293844553235-Do-Connects-ever-expire
   title: Do Connects ever expire?
   key points:
-    - Expiration window: "All Connects expire one year from the date they were issued and must be used within those 12 months."
-    - No reminders: "We do not send email notifications regarding upcoming expiration dates for your Connects" (you must monitor them).
-    - Expiry is final: "Expired Connects are non-refundable and cannot be credited back to your account."
+  - Expiration window: "All Connects expire one year from the date they were issued and must be used within those 12 months."
+  - No reminders: "We do not send email notifications regarding upcoming expiration dates for your Connects" (you must monitor them).
+  - Expiry is final: "Expired Connects are non-refundable and cannot be credited back to your account."
 
 - url: https://support.upwork.com/hc/en-us/articles/39293812809235-How-many-Connects-can-I-rollover-each-month
   title: How many Connects can I rollover each month?
   key points:
-    - Rollover is allowed: "All of your Connects will rollover (unless they expire)."
-    - Holding cap: "There is no limit on the amount of Connects you can hold."
-    - Practical implication: You don’t need to spend Connects just to “use them up” monthly, but expiry still applies.
+  - Rollover is allowed: "All of your Connects will rollover (unless they expire)."
+  - Holding cap: "There is no limit on the amount of Connects you can hold."
+  - Practical implication: You don’t need to spend Connects just to “use them up” monthly, but expiry still applies.
 
 - url: https://support.upwork.com/hc/en-us/articles/39293330080019-Can-I-buy-as-many-Connects-as-I-want
   title: Can I buy as many Connects as I want?
   key points:
-    - Purchase limit: You can "purchase or earn an unlimited amount of Connects".
-    - Budget risk: "Connects expire after a year" and "you can’t return Connects for a refund" (so over-buying can become wasted spend).
-    - Strategy: Use Connects-history + refund rules to decide whether to buy more.
+  - Purchase limit: You can "purchase or earn an unlimited amount of Connects".
+  - Budget risk: "Connects expire after a year" and "you can’t return Connects for a refund" (so over-buying can become wasted spend).
+  - Strategy: Use Connects-history + refund rules to decide whether to buy more.
 
 - url: https://support.upwork.com/hc/en-us/articles/41289488426643-I-noticed-the-number-of-Connects-required-to-submit-a-proposal-for-a-job-changed-from-when-I-first-saw-the-post-Why
   title: I noticed the number of Connects required to submit a proposal for a job changed from when I first saw the post. Why?
   key points:
-    - Variable pricing: "The number of Connects needed to submit a proposal can change while a job is live."
-    - Upwork cites drivers like project size/scope, how much interest the job is getting, and market trends.
-    - Practical implication: Re-check required Connects right before sending; don’t assume the earlier number still applies.
+  - Variable pricing: "The number of Connects needed to submit a proposal can change while a job is live."
+  - Upwork cites drivers like project size/scope, how much interest the job is getting, and market trends.
+  - Practical implication: Re-check required Connects right before sending; don’t assume the earlier number still applies.
 
 - url: https://support.upwork.com/hc/en-us/articles/211060388-How-to-edit-your-proposal
   title: How to edit your proposal
   key points:
-    - Edit window: "Within six hours or until the client views your proposal (whichever comes first)" you can edit key content (cover letter, answers, attachments).
-    - After that, you can usually still adjust “terms” (rate, milestones, etc.) until the client accepts/rejects — often better than withdrawing (which doesn’t refund Connects).
-    - Boosting caveat: You can boost later if you didn’t boost initially, but "You can’t adjust a boost you’ve already submitted".
+  - Edit window: "Within six hours or until the client views your proposal (whichever comes first)" you can edit key content (cover letter, answers, attachments).
+  - After that, you can usually still adjust “terms” (rate, milestones, etc.) until the client accepts/rejects — often better than withdrawing (which doesn’t refund Connects).
+  - Boosting caveat: You can boost later if you didn’t boost initially, but "You can’t adjust a boost you’ve already submitted".
 
 - url: https://support.upwork.com/hc/en-us/articles/211060288-How-to-withdraw-and-resubmit-a-proposal-on-Upwork
   title: How to withdraw and resubmit a proposal on Upwork
   key points:
-    - Withdraw does not refund: "Any Connects you used to submit your proposal won’t be refunded when you withdraw it."
-    - Resubmission rule: You can submit a new proposal after withdrawing only if the original proposal wasn’t boosted and didn’t include a Uma™ video interview; otherwise you can’t re-submit.
-    - Cost implication: Resubmitting consumes Connects again — so prefer editing within the allowed window when possible.
+  - Withdraw does not refund: "Any Connects you used to submit your proposal won’t be refunded when you withdraw it."
+  - Resubmission rule: You can submit a new proposal after withdrawing only if the original proposal wasn’t boosted and didn’t include a Uma™ video interview; otherwise you can’t re-submit.
+  - Cost implication: Resubmitting consumes Connects again — so prefer editing within the allowed window when possible.
 
 - url: https://support.upwork.com/hc/en-us/articles/4406395531795-How-to-boost-your-proposal
   title: How to boost your proposal
   key points:
-    - Auction limits: Boosting can place you in the "top four slots"; the auction closes "after seven days or upon first hire, whichever comes first" (then "you can’t boost a proposal on the same job post after that").
-    - Charge/refund mechanics: base proposal Connects are charged immediately; boost Connects are charged at auction end only if you’re top-four at close or the client interacts while boosted; otherwise boost Connects are refunded (standard proposal Connects are not).
-    - Visibility thresholds: a boost may end if the client "opens it three times" without further action or "sees it five times" without interacting (among other conditions like outbids).
+  - Auction limits: Boosting can place you in the "top four slots"; the auction closes "after seven days or upon first hire, whichever comes first" (then "you can’t boost a proposal on the same job post after that").
+  - Charge/refund mechanics: base proposal Connects are charged immediately; boost Connects are charged at auction end only if you’re top-four at close or the client interacts while boosted; otherwise boost Connects are refunded (standard proposal Connects are not).
+  - Visibility thresholds: a boost may end if the client "opens it three times" without further action or "sees it five times" without interacting (among other conditions like outbids).
 
 - url: https://support.upwork.com/hc/en-us/articles/11983621573395-Boosted-Proposal-placebo-auctions
   title: Boosted Proposal placebo auctions
   key points:
-    - Testing behavior: a "very small percentage" of job posts may run placebo auctions where boosts do not affect ranking and "no Connects will be taken for the boost" (only the Connects to apply).
-    - Discoverability: freelancers "won’t know" it’s placebo until after submission, when Upwork notifies them.
-    - Upwork’s stated impact: Boosting "can increase your chance of being hired up to 24%" (Upwork’s claim; not a guarantee).
+  - Testing behavior: a "very small percentage" of job posts may run placebo auctions where boosts do not affect ranking and "no Connects will be taken for the boost" (only the Connects to apply).
+  - Discoverability: freelancers "won’t know" it’s placebo until after submission, when Upwork notifies them.
+  - Upwork’s stated impact: Boosting "can increase your chance of being hired up to 24%" (Upwork’s claim; not a guarantee).
 
 - url: https://support.upwork.com/hc/en-us/articles/211062998-How-to-submit-a-proposal-on-Upwork
   title: How to submit a proposal on Upwork
   key points:
-    - Uma interview placement: "Some job posts may require a video interview with Uma™, Upwork’s Mindful AI instead of a cover letter".
-    - Editing reminder: "You can edit most parts of a proposal up to six hours after submitting it, or until the client has viewed it."
-    - Bid discipline: Upwork frames rate/bid-setting as a deliberate choice (market rates, job complexity, expenses), reducing “spray-and-pray” proposals that waste Connects.
+  - Uma interview placement: "Some job posts may require a video interview with Uma™, Upwork’s Mindful AI instead of a cover letter".
+  - Editing reminder: "You can edit most parts of a proposal up to six hours after submitting it, or until the client has viewed it."
+  - Bid discipline: Upwork frames rate/bid-setting as a deliberate choice (market rates, job complexity, expenses), reducing “spray-and-pray” proposals that waste Connects.
 
 - url: https://support.upwork.com/hc/en-us/articles/41104211856915-How-to-take-a-recorded-video-interview-on-Upwork
   title: How to take a recorded, video interview on Upwork
   key points:
-    - Time + constraints: "The interview usually takes 5–10 minutes, and you must complete it in English"; and "You’ll need to use a desktop or laptop to complete the interview."
-    - No redo after submission: the interview "can’t be edited or redone" and "Once you submit your proposal, you cannot retake the video interview".
-    - Connects safety valve: "You will not be charged Connects if you take the interview but choose not to submit a proposal afterward."
+  - Time + constraints: "The interview usually takes 5–10 minutes, and you must complete it in English"; and "You’ll need to use a desktop or laptop to complete the interview."
+  - No redo after submission: the interview "can’t be edited or redone" and "Once you submit your proposal, you cannot retake the video interview".
+  - Connects safety valve: "You will not be charged Connects if you take the interview but choose not to submit a proposal afterward."
 
 - url: https://support.upwork.com/hc/en-us/articles/211063018-How-to-respond-to-an-invitation-to-apply-on-Upwork
   title: How to respond to an invitation to apply on Upwork
   key points:
-    - Connects cost for the response itself: "responding to that invitation (either by accepting or declining) does not cost any Connects."
-    - Uma caveat: invited proposals may still require completing a Uma™ video interview, depending on the job post.
-    - Safety reminder: Upwork reiterates keeping communications on-platform pre-contract (helps avoid situations where you spend Connects on risky/scam invites).
+  - Connects cost for the response itself: "responding to that invitation (either by accepting or declining) does not cost any Connects."
+  - Uma caveat: invited proposals may still require completing a Uma™ video interview, depending on the job post.
+  - Safety reminder: Upwork reiterates keeping communications on-platform pre-contract (helps avoid situations where you spend Connects on risky/scam invites).
 
 - url: https://support.upwork.com/hc/en-us/articles/211062888-What-is-Freelancer-Plus
   title: What is Freelancer Plus?
   key points:
-    - Monthly Connects: "Get 100 Connects each month" after one month on the plan; in the first month you get "between 90-100 Connects depending on when you upgrade".
-    - Better decision inputs: includes proposal/client insights to refine bidding and proposal strategy (useful for choosing which jobs are “worth” spending Connects on).
-    - Timing edge-case: if you sign up on the "29th, 30th, or 31st" your plan renews on the "1st of the following month" (and you receive the full Connects then).
+  - Monthly Connects: "Get 100 Connects each month" after one month on the plan; in the first month you get "between 90-100 Connects depending on when you upgrade".
+  - Better decision inputs: includes proposal/client insights to refine bidding and proposal strategy (useful for choosing which jobs are “worth” spending Connects on).
+  - Timing edge-case: if you sign up on the "29th, 30th, or 31st" your plan renews on the "1st of the following month" (and you receive the full Connects then).
 
 - url: https://support.upwork.com/hc/en-us/articles/46420996733971-How-to-use-ad-credits-as-a-freelancer
   title: How to use ad credits as a freelancer
   key points:
-    - Not a Connect substitute: ad credits "can’t be used for submitting proposals" (you still spend base Connects to apply).
-    - Expiry + refunds: ad credits have their own expiration ("usually within a set timeframe like 14 or 30 days") and "are not transferable, refundable, or redeemable for Connects or cash".
-    - Boosting caveat: if you boost for 20 using 10 ad credits + 10 Connects and don’t win, "only the 10 Connects will be returned — not the 10 ad credits".
+  - Not a Connect substitute: ad credits "can’t be used for submitting proposals" (you still spend base Connects to apply).
+  - Expiry + refunds: ad credits have their own expiration ("usually within a set timeframe like 14 or 30 days") and "are not transferable, refundable, or redeemable for Connects or cash".
+  - Boosting caveat: if you boost for 20 using 10 ad credits + 10 Connects and don’t win, "only the 10 Connects will be returned — not the 10 ad credits".
 
 - url: https://www.upwork.com/nx/plans/connects/history/
   title: Connects history (Upwork UI, requires login)
   key points:
-    - The official Connects history page exists but requires authentication to view.
-    - The Help Center directs users here to review Connects transactions and manage spend decisions.
-    - Use alongside Help Center refund rules to avoid misinterpreting refunds vs. charges.
+  - The official Connects history page exists but requires authentication to view.
+  - The Help Center directs users here to review Connects transactions and manage spend decisions.
+  - Use alongside Help Center refund rules to avoid misinterpreting refunds vs. charges.
 
 - url: https://www.upwork.com/nx/plans/connects/buy
   title: Buy Connects (Upwork UI, requires login)
   key points:
-    - The official Buy Connects page exists but requires authentication to view.
-    - The Help Center documents the prerequisites (billing method) and pricing per Connect.
-    - Use after validating refund/expiry rules so you don’t over-buy Connects you might not use.
+  - The official Buy Connects page exists but requires authentication to view.
+  - The Help Center documents the prerequisites (billing method) and pricing per Connect.
+  - Use after validating refund/expiry rules so you don’t over-buy Connects you might not use.
 
 ### Numbers & thresholds (verbatim phrases seen)
 
